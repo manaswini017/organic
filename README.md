@@ -1,4 +1,4 @@
-# # Organic Grocery Management Website
+# Organic Grocery Management Website
 
 ## Overview
 ## Project Description
